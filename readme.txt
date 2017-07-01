@@ -5,7 +5,7 @@ Contributors: osolutions
 Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X6Z2BBNERP6V2
 Tags: comment, comments,delete all, delete, remove all comments, remove all, spam, post-trash
 Requires at least: 4.0
-Tested up to: 4.6
+Tested up to: 4.8
 Stable tag:trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -58,6 +58,10 @@ Just a standard installation required.
 
 * Typo fix.
 
+= 1.5 =
+
+* Minor optimization for version 4.8.
+
 N/A
 
 == Frequently Asked Questions ==
@@ -72,6 +76,6 @@ Yes, in version 1.2 it provides your site name.
 
 == Screenshots ==
 
-http://www.oviamsolutions.com/osplugins/dac/screenshot-2.png
+http://www.oviamsolutions.com/osplugins/dac/screenshot-1.png
 
 1. Tools > Delete All Comments screenshot-2.png
